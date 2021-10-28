@@ -1,8 +1,10 @@
-# wabot-aq
+# Nuisance-aq
 
-Simple WhatsApp Bot
+Simple WhatsApp Bot made by the coding family
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
+
+
+
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -87,15 +89,15 @@ Set prefix
 
 Used for [heroku](https://heroku.com/) or scan through website
 
-### `--db <json-server-url>`
 
-Use external db instead of local db, 
-Example Server `https://json-server.nurutomo.repl.co/`
-Code: `https://repl.it/@Nurutomo/json-server`
 
-`node . --db 'https://json-server.nurutomo.repl.co/'`
 
-The server should have like this specification
+
+
+
+
+
+
 
 #### GET
 
@@ -158,3 +160,6 @@ conn.logger.level = 'debug'
 # NUISANCE TECH
 
 ```WE ARE NOT RESPONSIBLE FOR ANY MISUSE OF THE BOT IF IT LEADS TO YOUR ACCOUNT BEING BANNED```
+
+
+[Nuisance-tech](https://github.com/lloyd4565)
