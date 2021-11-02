@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "Nuisance-aq",
   "version": "2.5.1",
-  "description": "Customizable WhatsApp Bot",
+  "description": "The world's assistant",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -22,16 +22,16 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/Nurutomo/wabot-aq",
+  "homepage": "https://github.com/lloyd4565/Nuisance-aq",
   "author": {
-    "name": "Nurutomo"
+    "name": "NUISANCE"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/lloyd4565/Nuisance-aq.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/lloyd4565/Nuisance-aq/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
