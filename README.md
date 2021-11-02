@@ -30,7 +30,7 @@ npm update
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/lloyd4565/Nuisance-aq
 cd wabot-aq
 npm install
 npm update
